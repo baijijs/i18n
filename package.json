@@ -1,0 +1,25 @@
+{
+  "name": "baiji-i18n",
+  "version": "1.0.0",
+  "description": "Lightweight library to provide the I18n translations on the Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baijijs/i18n.git"
+  },
+  "keywords": [
+    "Lightweight",
+    "I18n",
+    "translations",
+    "baiji"
+  ],
+  "author": "Felix Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/baijijs/i18n/issues"
+  },
+  "homepage": "https://github.com/baijijs/i18n#readme"
+}
