@@ -1,10 +1,10 @@
 {
   "name": "baiji-i18n",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Lightweight library to provide the I18n translations on the Javascript",
-  "main": "index.js",
+  "main": "i18n.js",
   "scripts": {
-    "test": "mocha"
+    "test": "jasmine-node spec/"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/baijijs/i18n/issues"
   },
-  "homepage": "https://github.com/baijijs/i18n#readme"
+  "homepage": "https://github.com/baijijs/i18n#readme",
+  "dependencies": {
+    "magico": "^1.1.1"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
 }
