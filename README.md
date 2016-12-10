@@ -1,4 +1,7 @@
-# baiji-i18n
+Baiji I18n
+==========
+
+[![Build Status](https://travis-ci.org/baijijs/i18n.svg?branch=master)](https://travis-ci.org/baijijs/i18n)
 
 It's a small library to provide the Rails I18n translations on the JavaScript.
 
