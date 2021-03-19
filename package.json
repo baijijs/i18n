@@ -1,6 +1,6 @@
 {
   "name": "baiji-i18n",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Lightweight library to provide the I18n translations on the Javascript",
   "main": "i18n.js",
   "scripts": {
@@ -23,9 +23,9 @@
   },
   "homepage": "https://github.com/baijijs/i18n#readme",
   "dependencies": {
-    "magico": "^1.1.1"
+    "magico": "^1.1.2"
   },
   "devDependencies": {
-    "jasmine-node": "^1.14.5"
+    "jasmine-node": "^3.0.0"
   }
 }
